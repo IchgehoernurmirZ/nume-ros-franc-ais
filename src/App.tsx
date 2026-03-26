@@ -233,7 +233,7 @@ export default function App() {
         <p className="text-gray-600 serif italic text-lg">Master French numbers with ease</p>
       </header>
 
-      <main className="w-full max-w-lg flex flex-col items-center">
+      <main className="flex-1 w-full max-w-lg flex flex-col items-center justify-center">
         <AnimatePresence mode="wait">
           {mode === 'menu' && (
             <motion.div 
@@ -608,7 +608,7 @@ export default function App() {
       </main>
 
       {/* Footer */}
-      <footer className="mt-8 pb-8 text-center w-full max-w-lg mx-auto">
+      <footer className="pb-8 text-center w-full max-w-lg mx-auto">
         <div className="flex flex-col items-center gap-4 text-olive/60">
           <div className="flex items-center gap-6">
             <a 
