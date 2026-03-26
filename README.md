@@ -1,26 +1,25 @@
 # 🇫🇷 French Numbers Learning App
 
-An interactive website to help users learn French numbers from 0 to 100.
+An interactive frontend project designed to help users learn French numbers from 0 to 100 through a simple and engaging interface.
 
-## ✨ Features
-- Learn pronunciation of French numbers
-- Interactive UI for practicing numbers
-- Simple and intuitive design for beginners
+## Features
+- Displays and practices French numbers
+- Clean and accessible UI
+- Beginner-friendly educational experience
 
-## 🚀 Live Demo
-(put your Vercel link here later)
+## Tech Stack
+- TypeScript
+- HTML
+- CSS
 
-## 🛠️ Tech Stack
-- HTML / CSS / JavaScript
-- Generated with Google AI Studio (then customized)
+## About the Project
+This project was first prototyped in Google AI Studio, then exported and refined for deployment as a standalone web app.
 
-## 📚 What I learned
-- How to prototype quickly using AI tools
-- How to structure and deploy a frontend project
-- Basics of hosting using Vercel / GitHub Pages
+## Live Demo
+https://nume-ros-franc-ais.vercel.app/
 
-## 📦 Setup (optional)
-If you want to run locally:
-
-```bash
-open index.html
+## Future Improvements
+- Audio support for pronunciation
+- Quiz and challenge mode
+- Mobile UI improvements
+- Expanded vocabulary learning features
