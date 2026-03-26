@@ -1,20 +1,26 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🇫🇷 French Numbers Learning App
 
-# Run and deploy your AI Studio app
+An interactive website to help users learn French numbers from 0 to 100.
 
-This contains everything you need to run your app locally.
+## ✨ Features
+- Learn pronunciation of French numbers
+- Interactive UI for practicing numbers
+- Simple and intuitive design for beginners
 
-View your app in AI Studio: https://ai.studio/apps/51c28276-7b64-4bc0-8876-5645bdee5c7e
+## 🚀 Live Demo
+(put your Vercel link here later)
 
-## Run Locally
+## 🛠️ Tech Stack
+- HTML / CSS / JavaScript
+- Generated with Google AI Studio (then customized)
 
-**Prerequisites:**  Node.js
+## 📚 What I learned
+- How to prototype quickly using AI tools
+- How to structure and deploy a frontend project
+- Basics of hosting using Vercel / GitHub Pages
 
+## 📦 Setup (optional)
+If you want to run locally:
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```bash
+open index.html
